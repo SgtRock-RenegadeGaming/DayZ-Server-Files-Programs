@@ -10,8 +10,8 @@ https://github.com/SgtRock-RenegadeGaming/DayZ-Server-Files-Programs/releases/do
 
 This is a start to the DayZ Expansion Setup process to get started faster..
 comes with the mpmissions/Expansion.chenarusplus folder pre-setup aswell 5 mods to get server launched the 1st time.
-CF
-Communnity online Tools
-Dabs Framework
-DayZ Expansion Bundle
+CF,
+Communnity online Tools,
+Dabs Framework,
+DayZ Expansion Bundle,
 DayZ Licenced
