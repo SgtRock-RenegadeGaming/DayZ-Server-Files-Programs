@@ -6,7 +6,7 @@ C: Drive should be placed as follows C:\DayZServer for the premade made scripts 
 https://github.com/SgtRock-RenegadeGaming/DayZ-Server-Files-Programs/releases/download/DayZ-Server-Setup-Powershell/DayZServerCdrive.zip
 
 D: Drive should be placed as follows D:\DayZServer
-https://github.com/SgtRock-RenegadeGaming/DayZ-Server-Files-Programs/releases/download/DayZ-Server-Setup-Powershell/DayZServerDdrive.zip
+https://github.com/SgtRock-RenegadeGaming/DayZ-Server-Files-Programs/releases/download/DayZ-Server-Setup-Powershell/DayZServerDdriveVersion.zip
 
 This is a start to the DayZ Expansion Setup process to get started faster..
 comes with the mpmissions/Expansion.chenarusplus folder pre-setup aswell 5 mods to get server launched the 1st time.
